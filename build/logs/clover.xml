@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1552919429">
+  <project timestamp="1552919429">
+    <package name="Aliuwahab\ChuckNorrisJokes">
+      <file name="/Users/aliuwahab/RawPhp/chuck-norris-jokes/src/JokeFactory.php">
+        <class name="Aliuwahab\ChuckNorrisJokes\JokeFactory" namespace="Aliuwahab\ChuckNorrisJokes">
+          <metrics complexity="3" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="6" coveredelements="6"/>
+        </class>
+        <line num="20" type="method" name="__construct" visibility="public" complexity="2" crap="2" count="1"/>
+        <line num="22" type="stmt" count="1"/>
+        <line num="23" type="stmt" count="1"/>
+        <line num="25" type="stmt" count="1"/>
+        <line num="27" type="method" name="getRandomJoke" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="29" type="stmt" count="1"/>
+        <metrics loc="31" ncloc="25" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="6" coveredelements="6"/>
+      </file>
+    </package>
+    <metrics files="1" loc="31" ncloc="25" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="6" coveredelements="6"/>
+  </project>
+</coverage>

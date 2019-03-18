@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Aliu Chuck Norris Test Suite" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.007937">
+    <testsuite name="Aliuwahab\ChuckNorrisJokes\Tests\JokeFactoryTest" file="/Users/aliuwahab/RawPhp/chuck-norris-jokes/tests/JokeFactoryTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.007937">
+      <testcase name="it_returns_a_random_joke" class="Aliuwahab\ChuckNorrisJokes\Tests\JokeFactoryTest" classname="Aliuwahab.ChuckNorrisJokes.Tests.JokeFactoryTest" file="/Users/aliuwahab/RawPhp/chuck-norris-jokes/tests/JokeFactoryTest.php" line="19" assertions="1" time="0.007937"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
